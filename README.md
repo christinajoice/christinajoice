@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World 👋,
+
+This is ChristinaJoice, a Data enthusiast, Love to play with data and produce valuable insights out of it.
+
+
 
 <!--
 **christinajoice/christinajoice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
