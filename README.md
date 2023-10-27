@@ -6,8 +6,7 @@
 
 
 
-This is ChristinaJoice, a Data enthusiast, Love to play with data and produce valuable insights out of it.
-
+This is ChristinaJoice, a Seasoned Senior Software Quality Engineer with 4 years of experience in the software industry. Proven track record of ensuring the delivery of high-quality software products through comprehensive testing and quality assurance methodologies. Skilled in test planning, test execution, defect management, and process improvement. Passionate about working with data and having proven record on EDA for multiple projects.
 
 
 <!--
