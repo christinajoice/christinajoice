@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="900" height="400"/>
 </div>
 
-About Me:
+<h1>About Me:</h1>
 
 - 🔭 I’m currently working as a Quality Engineer
 - 🌱 Learning Data science and Machine Learning
