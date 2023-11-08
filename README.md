@@ -16,8 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=christinajoice&style=flat-square&color=blue" alt=""/>
 </div>
 ## hey there
+<div id="hello" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+</div>
 
 
 <div align="center">
