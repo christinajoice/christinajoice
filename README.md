@@ -4,14 +4,18 @@
   <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="100"/>
 </div>
 
-
-
 This is ChristinaJoice, a Seasoned Senior Software Quality Engineer with 4 years of experience in the software industry. Proven track record of ensuring the delivery of high-quality software products through comprehensive testing and quality assurance methodologies. Skilled in test planning, test execution, defect management, and process improvement. Passionate about working with data and having proven record on EDA for multiple projects.
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <!--
