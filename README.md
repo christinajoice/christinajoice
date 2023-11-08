@@ -18,8 +18,8 @@
 <div>
   <h1>
   Hey there!!
-</h1>
-  <img src="https://media.giphy.com/media/EptlvewQKXPfX7bzSY/giphy.gif" width="30px" height="30"/>
+  <img src="https://media.giphy.com/media/EptlvewQKXPfX7bzSY/giphy.gif" width="30" height="30"/>
+    </h1>
 </div>
 
 
