@@ -1,11 +1,6 @@
-### Hello World 👋,
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="100"/>
 </div>
-
-This is ChristinaJoice, a Seasoned Senior Software Quality Engineer with 4 years of experience in the software industry. Proven track record of ensuring the delivery of high-quality software products through comprehensive testing and quality assurance methodologies. Skilled in test planning, test execution, defect management, and process improvement. Passionate about working with data and having proven record on EDA for multiple projects.
-
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,6 +13,11 @@ This is ChristinaJoice, a Seasoned Senior Software Quality Engineer with 4 years
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=christinajoice&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+This is ChristinaJoice, a Seasoned Senior Software Quality Engineer with 4 years of experience in the software industry. Proven track record of ensuring the delivery of high-quality software products through comprehensive testing and quality assurance methodologies. Skilled in test planning, test execution, defect management, and process improvement. Passionate about working with data and having proven record on EDA for multiple projects.
 
 <!--
 **christinajoice/christinajoice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
