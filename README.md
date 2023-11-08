@@ -28,12 +28,11 @@ This is ChristinaJoice, a Seasoned Senior Software Quality Engineer with 4 years
 
 About Me:
 
-- 🔭 I’m currently working on Quality Engineering
-- 🌱 I’m currently learning Data science and Machine Learning
+- 🔭 I’m currently working as a Quality Engineer
+- 🌱 Learning Data science and Machine Learning
 - 👯 I’m looking to collaborate with Data aspirants
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinajoice-s-5a219b178/)
+- 🤔 I’m looking for help in knowing more about data engineering
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinajoice-s-5a219b178/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
