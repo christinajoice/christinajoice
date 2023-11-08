@@ -17,7 +17,9 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
 
 This is ChristinaJoice, a Seasoned Senior Software Quality Engineer with 4 years of experience in the software industry. Proven track record of ensuring the delivery of high-quality software products through comprehensive testing and quality assurance methodologies. Skilled in test planning, test execution, defect management, and process improvement. Passionate about working with data and having proven record on EDA for multiple projects.
 
