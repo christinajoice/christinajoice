@@ -14,12 +14,13 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=christinajoice&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hey there!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-<p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
+</div>
 
 This is ChristinaJoice, a Seasoned Senior Software Quality Engineer with 4 years of experience in the software industry. Proven track record of ensuring the delivery of high-quality software products through comprehensive testing and quality assurance methodologies. Skilled in test planning, test execution, defect management, and process improvement. Passionate about working with data and having proven record on EDA for multiple projects.
 
