@@ -27,11 +27,11 @@
 
 <h1>About Me:</h1>
 
-- 🔭 I’m currently working as a Quality Engineer
-- 🌱 Learning Data science and Machine Learning
-- 👯 I’m looking to collaborate with Data aspirants
-- 🤔 I’m looking for help in knowing more about data engineering
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinajoice-s-5a219b178/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working as a Quality Engineer
+🌱 Learning Data science and Machine Learning
+👯 I’m looking to collaborate with Data aspirants
+🤔 I’m looking for help in knowing more about data engineering
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinajoice-s-5a219b178/)
+😄 Pronouns: she/her
+
 
