@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="900" height="400"/>
 </div>
 
-<h1>About Me:</h1>
+### :About Me:
 
 - 🔭 I’m currently working as a Quality Engineer
 - 🌱 Learning Data science and Machine Learning
@@ -34,4 +34,8 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinajoice-s-5a219b178/)
 - 😄 Pronouns: she/her
 
+### :hammer_and_wrench: Languages and Tools :
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
