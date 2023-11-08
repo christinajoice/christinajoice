@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="900" height="400"/>
 </div>
 
-### :About Me:
+### About Me:
 
 - 🔭 I’m currently working as a Quality Engineer
 - 🌱 Learning Data science and Machine Learning
@@ -56,3 +56,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=christinajoice&theme=dark&background=000000)](https://git.io/streak-stats)
