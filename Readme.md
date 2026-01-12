@@ -1,70 +1,107 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/christinajoice-s-5a219b178/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!---
-  <a href="https://www.youtube.com/channel/UC5DdWq27SQ95QXGa1pS6uYw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>   
-  --->
-  <a href="https://www.hackerrank.com/profile/christinallrejo1">
-    <img src="https://img.shields.io/badge/hackerrank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank Badge"/>
-  </a>
-</div>
-<div id="profile_view" align="center">
-<img src="https://komarev.com/ghpvc/?username=christinajoice&style=flat-square&color=blue" alt=""/>
-</div>
-<div id="hello" align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-  <h1>Hey there!!!</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="90"/>
 </div>
 
+<h1 align="center">Hi, I'm Christina Joice 👋</h1>
+
+<h3 align="center">
+Senior SDET • Staff-Level Quality Engineering • Product & Client-Facing Ownership
+</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="900" height="400"/>
+  <a href="https://www.linkedin.com/in/christinajoice-s-5a219b178/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/christinallrejo1">
+    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </div>
 
-### About Me:
-
-- 🔭 I’m currently working as a Quality Engineer
-- 🌱 Learning Data science and Machine Learning
-- 👯 I’m looking to collaborate with Data aspirants
-- 🤔 I’m looking for help in knowing more about data engineering
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christinajoice-s-5a219b178/)
-- 😄 Pronouns: she/her
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="circleci" alt="circleci" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=christinajoice&style=flat-square&color=blue"/>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=christinajoice&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinajoice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 👩‍💻 About Me
 
-<!--
-### :writing_hand: Blog Posts :
--->
+I’m a **Senior Software Development Engineer in Test** with **6.5+ years of experience**, consistently operating at **Staff SDET scope**, owning quality as an **engineering discipline**, not just testing.
+
+- 🧠 Architect enterprise-grade **UI, API, and data automation frameworks**
+- 🏗️ Python-first automation (Playwright, PyTest, SeleniumBase)
+- ☁️ Cloud-native quality for **AWS-based, data-intensive platforms**
+- 📊 Validate **millions of healthcare records** across RDS & Snowflake
+- 🚦 Act as **release quality gate** (go / no-go decisions)
+- 🧩 Frequently operate as a **Product Manager surrogate**, joining client calls and shaping QA & product roadmaps
+- 🤝 Strong believer in **product thinking, risk-based testing, and ownership**
+
+---
+
+## 🧭 What I Work On
+
+- End-to-end automation: **UI + API + Backend + Data**
+- CI/CD quality gates & automation strategy
+- Automation architecture & framework scalability
+- Data correctness at scale
+- Cross-team collaboration: **QA × Engineering × Product × Clients**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Python` · `Java` · `SQL`
+
+### Automation & Testing
+`Playwright (Python)` · `Selenium` · `SeleniumBase` · `PyTest` · `TestNG`  
+`Postman` · `REST APIs`
+
+### Data & Backend
+`PostgreSQL` · `RDS` · `Snowflake` · `Pandas` · `NumPy` · `PySpark`
+
+### CI/CD & Cloud
+`AWS` · `Docker` · `Jenkins` · `CircleCI`
+
+### Quality & Security
+`JMeter` · `BurpSuite` · `ZAP` · Metrics-driven QA
+
+---
+
+## 🚀 Selected Work & Interests
+
+### 🔹 AI-Assisted Self-Healing Automation (Personal Project)
+- Exploring **AI-driven exploratory automation** using Playwright (Python)
+- Dynamic selector adaptation during large UI changes
+- Focused on reducing automation maintenance cost and increasing ROI
+
+### 🔹 Healthcare Market Data Validation
+- Automated validation for provider data across **multi-million-row datasets**
+- Built Python-based comparators and anomaly detection logic
+
+### 🔹 Product & Client-Facing Quality Ownership
+- Translate business requirements into automation strategy
+- Influence QA roadmaps aligned with product milestones
+- Maintain end-to-end product understanding beyond test cases
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=christinajoice&theme=dark&background=000000"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christinajoice&layout=compact&theme=vision-friendly-dark"/>
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: [Christina Joice](https://www.linkedin.com/in/christinajoice-s-5a219b178/)
+- 📧 Email: christinallrejoice@gmail.com
+
+---
+
+⭐ *Senior SDET operating at Staff-level scope, bridging Quality, Engineering, Product, and Customer outcomes.*
